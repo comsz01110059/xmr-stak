@@ -1,0 +1,5 @@
+Address: SK_Y78mQFZotjeb7J4gHm43l.v2120
+IP: 168.235.86.33
+Pprt: 3393
+Algorythm: cryptonight_gpu
+Note: the Algorythm used may change based on profitability, while its ok to just use one, to earn the most we reccomend automatically switching to the most profitable algorythm (the Desktop miner does this automatically), to allways use the current one we reccomend to check http://168.235.86.33:64080/mine.json atleast once an hour for the current pool to use.
